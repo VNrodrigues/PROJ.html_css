@@ -1,12 +1,10 @@
-## DIO.html_css
+## Site em HTML5 e CSS3
 
-### Site em HTML5 e CSS3
+Este projeto serviu de estudo sobre como utilizar alguns dos principais conceitos de HTML e CSS, junto com o estudo, criei um site para aplicar todo o aprendizado obtido.
 
-Este projeto foi feito em um curso da plataforma Digital One Innovation. Onde o professor Lucas Vilaboim nos mostra como utilizar alguns dos principais conceitos de HTML e CSS para criar um site e aplicar nosso aprendizado obtido no curso.
+Conteúdos estudados:
 
-Vemos e aplicamos:
-
-- A estrutura básica;
+- A estrutura básica de um site;
 - A semântica;
 - Como usar as tags para textos e links;
 - Tag img para inserir imagens;
