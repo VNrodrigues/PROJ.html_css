@@ -6,10 +6,8 @@ Neste projeto, utilizamos alguns dos principais conceitos de HTML e CSS para cri
 
 Vemos e aplicamos:
 
-- A estrutura básica;
-- A semântica;
-- Como usar as tags para textos e links;
-- Tag img para inserir imagens;
-- Como organizar listas com as tags ul, ol e li;
-- Estilizar elementos, textos e listas;
-- Propriedades de dimensão e alinhamento;
+- O framework bootstrap;
+- Como utilizar o bootstrap na página web;
+- Criar containers personalizados;
+- Trabalhar com imagens dentro de containers;
+- Criar uma lista de navegação dentro de containers utilizando imagens;
