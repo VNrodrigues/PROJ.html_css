@@ -1,6 +1,6 @@
 ## Site em HTML5 e CSS3
 
-Este projeto serviu de estudo sobre como utilizar alguns dos principais conceitos de HTML e CSS, junto com o estudo, criei um site para aplicar todo o aprendizado obtido.
+Este projeto de estudo serviu de aprendozado sobre como utilizar alguns dos principais conceitos de HTML e CSS, junto com o estudo, criei um site para aplicar todo o aprendizado obtido.
 
 Conteúdos estudados:
 
