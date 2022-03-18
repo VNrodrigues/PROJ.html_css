@@ -2,7 +2,7 @@
 
 ### Site em HTML5 e CSS3
 
-Este projeto foi feito em um curso da plataforma Digital One Innovation. Onde o professor Lucas Vilaboim nos mostra como utilizar alguns dos principais conceitos de HTML e CSS para criar um site simples mas com muito aprendizado.
+Este projeto foi feito em um curso da plataforma Digital One Innovation. Onde o professor Lucas Vilaboim nos mostra como utilizar alguns dos principais conceitos de HTML e CSS para criar um site e aplicar nosso aprendizado obtido no curso.
 
 Vemos e aplicamos:
 
